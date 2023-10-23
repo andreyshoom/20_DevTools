@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Andrei",
+      "averageScore": 4.5,
+      "isActivist": true,
+      "imageUrl": "https://www.komarov.design/content/images/size/w1000/2020/11/image-5.jpeg"
+    },
+    {
+      "name": "Lena",
+      "averageScore": 4.6,
+      "isActivist": false,
+      "imageUrl": "https://www.komarov.design/content/images/size/w1000/2020/11/image-4.jpeg"
+    },
+    {
+        "name": "Oxana",
+        "averageScore": 4.7,
+        "isActivist": false,
+        "imageUrl": "https://www.komarov.design/content/images/size/w1000/2020/11/image.jpeg"
+    },
+    {
+        "name": "Victor",
+        "averageScore": 4.8,
+        "isActivist": true,
+        "imageUrl": "https://www.komarov.design/content/images/size/w1000/2020/11/image-3.jpeg"
+    }
+  ]
